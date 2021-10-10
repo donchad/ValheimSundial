@@ -1,0 +1,8 @@
+{
+  "piece_sundial_stone": "Stone Sundial",
+  "piece_sundial_stone_description": "A stone sundial used to tell the time",
+  "sundial_collider_name": "Stone Sundial",
+  "sundial_collider_description": "A cobbled-together sundial used to tell the time",
+  "prop_sundial": "The time here",
+
+}

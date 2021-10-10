@@ -361,3 +361,17 @@ MigrationBackup/
 
 # Fody - auto-generated XML schema
 FodyWeavers.xsd
+/thanks.txt
+/JotunnModSundialUnity/Temp
+/JotunnModSundialUnity/assembly_valheim.csproj
+/JotunnModSundialUnity/assembly_utils.csproj
+/JotunnModSundialUnity/assembly_sunshafts.csproj
+/JotunnModSundialUnity/assembly_steamworks.csproj
+/JotunnModSundialUnity/assembly_simplemeshcombine.csproj
+/JotunnModSundialUnity/assembly_postprocessing.csproj
+/JotunnModSundialUnity/assembly_lux.csproj
+/JotunnModSundialUnity/assembly_guiutils.csproj
+/JotunnModSundialUnity/assembly_googleanalytics.csproj
+/JotunnModSundialUnity/Assembly-CSharp.csproj
+/JotunnModStub/Package/plugins
+/JotunnModSundialUnity/Assets/VanillaScripts

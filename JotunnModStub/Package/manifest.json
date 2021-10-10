@@ -1,0 +1,10 @@
+﻿{
+  "name": "ValheimSundial",
+  "description": "A Valheim mod that adds a Sundial block",
+  "version_number": "0.0.1",
+  "website_url": "",
+  "dependencies": [
+    "denikson-BepInExPack_Valheim-5.4.1501",
+    ""
+  ]
+}
